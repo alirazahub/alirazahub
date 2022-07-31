@@ -19,7 +19,7 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 
 ### My Recent Projects
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/be45c9d6-cd36-417f-98ef-0d29783c124b/deploy-status)](https://app.netlify.com/sites/alirazahub-inotebook-client/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/be45c9d6-cd36-417f-98ef-0d29783c124b/deploy-status)](https://alirazahub-inotebook-client.netlify.app/login)
 
 
 #### Profile Visits
