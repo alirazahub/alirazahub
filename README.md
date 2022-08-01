@@ -16,13 +16,14 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirazahub&show_icons=true&locale=en&layout=compact" alt="alirazahub" /></p>
 
 ```json
-export default () => ({
-  websiteUrl: "https://aliraza.studio",
-  askMeAbout: [
-    "Web-Dev", "DS/ML",
+
+  "websiteUrl": "https://aliraza.studio",
+  "askMeAbout": {
+    "Web-Dev", 
+    "DS/ML",
     "Cybersecurity"
-  ],
-  technologies: {
+  },
+  "technologies": [
     "Programming languages": [ "C", "C++", "Python", "Java"],
     "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "NextJS", "Material-UI" ],
     "appdev": [ "Flutter" ],
@@ -32,16 +33,10 @@ export default () => ({
     "cloudOps": [ "AWS" ],
     "operatingSystems": [ "Ubuntu", "Linux", "Windows" ],
     "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++" ]
-  },
-   Skills: [
-    "Leadership", "Team Building", "Decision Making",
-    "Problem Solving", "Time Management", "Quick Learner" 
   ],
-   Interest: [
-    "Technology", "Coding", "Reading",
-    "Traveling", "Music", "Cricket" 
-  ]
-});
+   "Skills": [ "Leadership", "Team Building", "Decision Making", "Problem Solving", "Time Management", "Quick Learner"],
+   "Interest": [ "Technology", "Coding", "Reading","Traveling", "Music", "Cricket" ]
+
 
 ```
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirazahub&show_icons=true&locale=en" alt="alirazahub" /></p>
