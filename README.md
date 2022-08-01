@@ -24,4 +24,13 @@ I'm a Front-end Web Developer. My experience has provided me with the experience
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muhib160.muhib160)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alirazahub)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aliraazahub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliraazahub" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirazahub&show_icons=true&locale=en&layout=compact" alt="alirazahub" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirazahub&show_icons=true&locale=en" alt="alirazahub" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirazahub&" alt="alirazahub" /></p>
