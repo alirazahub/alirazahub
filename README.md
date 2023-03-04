@@ -2,15 +2,15 @@
 
 Nice to meet you, I'm Ali Raza
 
-
-I'm a Full Stack Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
-
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
+- 🤓 I enjoy to make people laugh and coding.
 - 🎯 Goal : To be a better Developer 
--   ♥️ I enjoy to make people laugh and coding. <br/>
 - 📫 How to reach me: [alirazahub2@gmail.com](alirazahub2@gmail.com)<br/>
 - 💬 Ask me about anything
+- 💌 Fun Facts :
+     - Loves to eat and a great chef too 🐼 
+     - dangsinui insaengeun eotteohseupnikka? ( Ahh, Learning Korean out of curiosity ) 🙃
 <br>
 
 ## My Weapons 🌟
