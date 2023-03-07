@@ -10,7 +10,7 @@ Nice to meet you, I'm Ali Raza
 - 💬 Ask me about anything
 - 💌 Fun Facts :
      - Loves to eat and a great chef too 🐼 
-     - dangsinui insaengeun eotteohseupnikka? ( Ahh, Learning Korean out of curiosity ) 🙃
+     - Hoe gaat het met je leven? ( Ahh, Learning Dutch out of curiosity ) 🙃
 <br>
 
 ## My Weapons 🌟
