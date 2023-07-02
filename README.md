@@ -10,7 +10,7 @@ Nice to meet you, I'm Ali Raza
 - 💬 Ask me about anything
 - 💌 Fun Facts :
      - Loves to eat and a great chef too 🐼 
-     - Hoe gaat het met je leven? ( Ahh, Learning Dutch out of curiosity ) 🙃
+     - Wie läuft dein Leben? ( Ahh, Learning German out of curiosity ) 🙃
 <br>
 
 ## My Weapons 🌟
