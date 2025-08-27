@@ -11,7 +11,7 @@ Nice to meet you, I'm Ali Raza
 - 💬 Ask me about anything
 - 💌 Fun Facts :
      - Loves to eat and a great chef too 🐼 
-     - Comment se passe ta vie ? ( Ahh, Learning German out of curiosity ) 🙃
+     - Comment se passe ta vie ? ( Ahh, Learning French out of curiosity ) 🙃
 <br>
 
 ## My Weapons 🌟
